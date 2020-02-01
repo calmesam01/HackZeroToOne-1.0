@@ -1,1 +1,1 @@
-# HackZeroToOne_1.0
+# HackZeroToOne-1.0
